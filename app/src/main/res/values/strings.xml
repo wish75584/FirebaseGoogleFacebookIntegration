@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirebaseGoogleFacebookIntegration</string>
+
+    <string name="facebook_app_id">309685560435370</string>
+    <string name="fb_login_protocol_scheme">fb309685560435370</string>
+
+</resources>
